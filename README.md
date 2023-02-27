@@ -38,10 +38,10 @@ Your finished project must include all of the following requirements:
 - [ ] Render your characters to the DOM:
 
   1. Build a React component named 'Character' to render an individual character.
-  1. Map over the list in state, and for each character render a Character to the page.
-  1. Each rendered character must display its name in the DOM (e.g. "Luke Skywalker").
-  1. The character's name can't be hard-coded into the HTML. This data must be obtained from the API.
-  1. The components must be styled with **styled-components**.
+  2. Map over the list in state, and for each character render a Character to the page.
+  3. Each rendered character must display its name in the DOM (e.g. "Luke Skywalker").
+  4. The character's name can't be hard-coded into the HTML. This data must be obtained from the API.
+  5. The components must be styled with **styled-components**.
 
   **Notes:**
 
